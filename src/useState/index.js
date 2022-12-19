@@ -1,5 +1,4 @@
-const { View } = require("react-native");
-
+import { View,Text } from "react-native";
 function UseState(){
     return(
         <View>
